@@ -1,0 +1,1 @@
+EXEC sp_helptext 'bronze.load_bronze';
